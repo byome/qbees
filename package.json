@@ -1,0 +1,22 @@
+{
+  "name": "qbees",
+  "version": "0.0.1",
+  "description": "Firebase queue workers for byome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byome/qbees.git"
+  },
+  "keywords": [
+    "byome"
+  ],
+  "author": "Miles Zimmerman",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/byome/qbees/issues"
+  },
+  "homepage": "https://github.com/byome/qbees#readme"
+}
