@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/byome/qbees/issues"
   },
-  "homepage": "https://github.com/byome/qbees#readme"
+  "homepage": "https://github.com/byome/qbees#readme",
+  "dependencies": {
+    "firebase": "^3.6.9",
+    "firebase-admin": "^4.1.0",
+    "firebase-queue": "^1.6.1"
+  }
 }
